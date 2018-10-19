@@ -1,0 +1,6 @@
+framework module Pods_intesiveProject {
+  umbrella header "Pods-intesiveProject-umbrella.h"
+
+  export *
+  module * { export * }
+}
